@@ -1,4 +1,4 @@
-theme-apex
+theme-apex(Modified)
 ==========
 
 The official theme repo for Apex. Fork this to use it as a boilerplate.
